@@ -1,2 +1,9 @@
 # json-pretty
-Pretty-print and sort JSON from a file
+
+Sorts keys and pretty-prints JSON.
+
+```
+python pretty.py config.json
+```
+
+MIT licensed.
